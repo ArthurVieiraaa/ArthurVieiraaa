@@ -1,27 +1,20 @@
-### Vieiraaa 😈
+<div align='center'>
+    <h1>Website - Personal</h1>
+</div>
 
-<div align='left'>
-    <span>💻 - <i>Website Developer - Begginer</i><br></span>
-</div>
-<hr>
 <div align='center'>
-    <img height="170em" aling="center" src="https://github-readme-stats.vercel.app/api?username=ArthurVieiraaa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="170em" aling="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArthurVieiraaa&layout=compact&langs_count=10&theme=dark"/>
-    <hr>
+    <p><strong>Ultima atualização:</strong> 04 Jan. 2023<br><strong>Última versão:</strong> 3.0.0</p>
+    <p>>> <a target='_blank' href='https://ArthurVieiraaa.github.io/'><i>https://ArthurVieiraaa.github.io/</i></a> <<</p>
 </div>
-<br>
+
 <div align='center'>
-    <a target="_blank" href="https://github.com/ArthurVieiraaa">
+    <a target='_blank' href='https://github.com/ArthurVieiraaa/'>
         <div dir='auto'>
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" width="30" alt="html5">
+            <img align='center' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg' width='30' alt='html5'>
             -
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" width="30" alt="js">
+            <img align='center' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg' width='30' alt='js'>
             -
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg" width="40" alt="php">
-            -
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" width="30" alt="css3">
-            -
-            <img align='center' src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg" width="30" alt="mysql">
+            <img align='center' src='https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg' width='30' alt='css3'>
         </div>
     </a>
 </div>
