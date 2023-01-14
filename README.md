@@ -4,7 +4,7 @@
 
 <div align='center'>
     <p><strong>Ultima atualização:</strong> 04 Jan. 2023<br><strong>Última versão:</strong> 3.0.0</p>
-    <p>>> <a target='_blank' href='https://drypzz.github.io/'><i>https://drypzz.github.io/</i></a> <<</p>
+    <p>>> <a target='_blank' href='https://ArthurVieiraaa.github.io/'><i>https://drypzz.github.io/</i></a> <<</p>
 </div>
 
 <div align='center'>
