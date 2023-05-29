@@ -36,12 +36,12 @@ My name is Arthur, I'm 17 years old, my nickname is Scary and I'm a dreamy devel
   
 <br/>
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=drypzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/drypzz)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurVieiraaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/ArthurVieiraaa)
 <br/>
-[![GitHub Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=drypzz&show_icons=true&theme=radical)](https://github.com/drypzz)
+[![GitHub Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurVieiraaa&show_icons=true&theme=radical)](https://github.com/ArthurVieiraaa)
 
 <div align="center">
   
-  ![Snake animation](https://github.com/drypzz/drypzz/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/ArthurVieiraaa/ArthurVieiraaa/blob/output/github-contribution-grid-snake.svg)
   
 </div>
