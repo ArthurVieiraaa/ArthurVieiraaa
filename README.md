@@ -3,7 +3,7 @@
 [![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=ArthurVieiraaa)](https://github.com/ArthurVieiraaa)
 [![GitHub followers](https://img.shields.io/github/followers/ArthurVieiraaa.svg?style=social&label=Followers)](https://github.com/ArthurVieiraaa)
 
-### Welcome to my github - 👌
+### Welcome to my Github:
 My name is Arthur, I'm 17 years old, my nickname is Scary and I'm a dreamy developer.
 
 ### 📷 - Social
