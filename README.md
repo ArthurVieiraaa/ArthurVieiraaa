@@ -13,7 +13,7 @@ My name is Arthur, I'm 17 years old, my nickname is Scary and I'm a dreamy devel
 
 ### 💻 - Portfolio
 
-[![PORTFOLIO](https://img.shields.io/badge/portfolio-359acc?style=for-the-badge&logo=opera&logoColor=white)](https://drypzz.netlify.app/)
+[![PORTFOLIO]()
 
 ### :clipboard: Technologies:
 
