@@ -4,7 +4,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/ArthurVieiraaa.svg?style=social&label=Followers)](https://github.com/ArthurVieiraaa)
 
 ### Welcome to my Github:
-My name is Arthur, I'm 17 years old, my nickname is Scary and I'm a dreamy developer.
+My name is Arthur, I'm 18 years old, my nickname is "Scary" and I'm a dreamy developer.
 
 ### 📷 - Social
 
