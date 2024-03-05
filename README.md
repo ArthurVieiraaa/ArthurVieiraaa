@@ -13,7 +13,10 @@ My name is Arthur, I'm 17 years old, my nickname is Scary and I'm a dreamy devel
 
 ### 💻 - Portfolio
 
-[![PORTFOLIO](https://arthurvieirabruske.netlify.app/)
+<div>
+  	<a href="https://drypzz.netlify.app/"><img src="https://static-00.iconduck.com/assets.00/netlify-icon-511x512-idkvcd89.png" width=35 heigth=35 alt="Portfolio" title="Portfolio" /></a>
+</div>
+
 
 ### :clipboard: Technologies:
 
