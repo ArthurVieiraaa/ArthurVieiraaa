@@ -20,7 +20,6 @@ My name is Arthur, I'm 18 years old, my nickname is "Scary" and I'm a dreamy dev
 
 ### :clipboard: Technologies:
 
-[![LUA](https://img.shields.io/badge/LUA-040484?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org)
 [![PHP](https://img.shields.io/badge/PhP-777BB3?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net)
 [![JS](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![MYSQL](https://img.shields.io/badge/MySQL-0075bf?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
@@ -42,9 +41,3 @@ My name is Arthur, I'm 18 years old, my nickname is "Scary" and I'm a dreamy dev
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ArthurVieiraaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/ArthurVieiraaa)
 <br/>
 [![GitHub Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ArthurVieiraaa&show_icons=true&theme=radical)](https://github.com/ArthurVieiraaa)
-
-<div align="center">
-  
-  ![Snake animation](https://github.com/ArthurVieiraaa/ArthurVieiraaa/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
