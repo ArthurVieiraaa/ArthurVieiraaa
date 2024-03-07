@@ -9,7 +9,7 @@ My name is Arthur, I'm 18 years old, my nickname is "Scary" and I'm a dreamy dev
 ### 📷 - Social
 
 [![INSTAGRAM](https://img.shields.io/badge/instagram-dd2a7b?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arthurvieiraaa/)
-[![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vieira-bruske-3981b1243/))
+[![LINKEDIN](https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-vieira-bruske-3981b1243/)
 
 ### 💻 - Portfolio
 
