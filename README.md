@@ -10,7 +10,6 @@
 
 ### 💻 - I am currently studying at the Faculty of Systems Analysis and Development (ADS), I am open to job proposals, I seek to show my knowledge and learn more and more.<br>
 </div>
-<hr>
 
 -------------------
 
