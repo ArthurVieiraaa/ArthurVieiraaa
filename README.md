@@ -1,10 +1,9 @@
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
-
 [![VISITORS](https://visitor-badge.laobi.icu/badge?page_id=ArthurVieiraaa)](https://github.com/ArthurVieiraaa)
 [![GitHub followers](https://img.shields.io/github/followers/ArthurVieiraaa.svg?style=social&label=Followers)](https://github.com/ArthurVieiraaa)
 
 <div align='left'>
     <h2>👋 - <i>Hi! Welcome to my Github profile</i><br></h2>
+    <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
     
 ### 👨🏻‍💻 - Hello, my name is Arthur, I'm 18 years old!<br>
 
