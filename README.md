@@ -5,7 +5,7 @@
     <h2>👋 - <i>Hi! Welcome to my Github profile</i><br></h2>
     <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
     
-### 👨🏻‍💻 - Hello, my name is Arthur, I'm 18 years old!<br>
+### 👨🏻‍💻 - Hello, my name is Arthur, I'm 19 years old!<br>
 
 ### 💻 - I am currently studying at the Faculty of Systems Analysis and Development (ADS), I am open to job proposals, I seek to show my knowledge and learn more and more.<br>
 </div>
